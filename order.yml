@@ -12,5 +12,5 @@ server:
   port: 8081
 girl:
   name: yly
-  age: 18
+  age: 20
 env: test
