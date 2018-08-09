@@ -13,4 +13,4 @@ server:
 girl:
   name: yly
   age: 18
-env: dev
+env: test
