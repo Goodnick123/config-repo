@@ -9,8 +9,8 @@ spring:
   rabbitmq:
     host: localhost
     port: 5762
-    password: guest
-    username: guest
+    password: admin
+    username: admin
   jpa:
     show-sql: true
 server:
