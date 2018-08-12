@@ -6,8 +6,6 @@ spring:
     password: root
   jpa:
     show-sql: true
-  redis:
-    host: 10.21.239.4
-    port: 6379
+  
 server:
   port: 8081
